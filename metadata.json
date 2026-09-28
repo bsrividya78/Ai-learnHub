@@ -1,0 +1,6 @@
+{
+  "name": "AI LearnHub",
+  "description": "Comprehensive AI and Machine Learning engineering learning portal with roadmaps, courses, quizzes, practical labs, and student dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
